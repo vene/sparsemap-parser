@@ -1,0 +1,1 @@
+LGPL following the TurboParser license. TODO details.
